@@ -18,7 +18,7 @@ const Info = () => {
       </div>
 
       <div className="about__box">
-        <i class="bx bx-award about__icon"></i>
+        <i class="bx bxs-star about__icon"></i>
         <h3 className="about__title">GPA</h3>
         <span className="about__subtitle">3.5118</span>
       </div>
