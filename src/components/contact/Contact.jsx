@@ -46,7 +46,7 @@ const Contact = () => {
               <span className="contact__card-data">+94 767 611 079</span>
  
               <a
-                href="https://wa.me/94767611069?text=I'm%20inquiring%20about%20the%20apartment%20listing"
+                href="https://wa.me/94767611069?text=Hey%20Tameez"
                 className="contact__button"
               >
                 Text me on Whatsapp
