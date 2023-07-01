@@ -153,13 +153,13 @@ const Qualifications = () => {
                 : "qualification__content"
             }
           >
-            {/*=============== 2.1 ===============
+            {/* =============== 2.1 =============== */}
             <div className="qualification__data">
               <div>
-                <h3 className="qualification__title">1 EXp</h3>
-                <span className="qualification__subtitle">6As 3Bs</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">2016</i>
+                <h3 className="experience_location">Omobio (Pvt) Ltd.</h3>
+                <span className="experience__titke">Trainee Project Manager</span>
+                <div className="experience__calender">
+                  <i className="uil uil-calendar-alt">2023 June</i>
                 </div>
               </div>
 
@@ -167,7 +167,7 @@ const Qualifications = () => {
                 <span className="qualification__rounder"></span>
                 <span className="qualification__line"></span>
               </div>
-            </div>*/}
+            </div>
 
             {/*=============== 2.2 ===============
             <div className="qualification__data">
