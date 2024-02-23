@@ -5,12 +5,12 @@ const Data = () => {
     <div className="home__data">
       <h1 className="home__title">Tameez Deen</h1>
 
-      <h3 className="home__subtitle">Aspiring Project Manager</h3>
+      <h3 className="home__subtitle">Associate Project Manager</h3>
 
       <p className="home__description">
-        I am a 23 year old energetic and passionate final year undergraduate 
-        working towards a BSc in Computer Science. Looking for
-         a software project management internship.
+        I am a 23 year old energetic and passionate final year undergraduate
+        working towards a BSc in Computer Science. Looking for a software
+        project management internship.
         {/* I am a highly motivated and enthusiastic 23-year-old final year
         undergraduate pursuing a BSc in Computer Science. With a deep passion
         for the field, I am actively seeking an internship opportunity to

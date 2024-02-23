@@ -108,7 +108,6 @@ const Qualifications = () => {
                 <h3 className="qualification__title">
                   Bsc in Computer Science
                 </h3>
-            
               </div>
 
               <div>
@@ -143,9 +142,8 @@ const Qualifications = () => {
             </div> */}
           </div>
 
-    
           {/*=============== Experience ===============*/}
-          
+
           <div
             className={
               toggleState === 2
@@ -157,9 +155,13 @@ const Qualifications = () => {
             <div className="qualification__data">
               <div>
                 <h3 className="experience_location">Omobio (Pvt) Ltd.</h3>
-                <span className="experience__titke">Trainee Project Manager</span>
+                <span className="experience__title">
+                  Trainee Project Manager
+                </span>
                 <div className="experience__calender">
-                  <i className="uil uil-calendar-alt">2023 June</i>
+                  <i className="uil uil-calendar-alt">
+                    2023 June - 2023 December
+                  </i>
                 </div>
               </div>
 
@@ -169,24 +171,25 @@ const Qualifications = () => {
               </div>
             </div>
 
-            {/*=============== 2.2 ===============
+            {/* =============== 2.2 =============== */}
             <div className="qualification__data">
               <div></div>
 
               <div>
                 <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
+                {/* <span className="qualification__line"></span> */}
               </div>
 
               <div>
-                <h3 className="qualification__title">Exp2 </h3>
-                <span className="qualification__subtitle">6As 3Bs</span>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt">2016</i>
+                <h3 className="experience_location">Omobio (Pvt) Ltd.</h3>
+                <span className="experience__title">
+                  Associate Project Manager
+                </span>
+                <div className="experience__calender">
+                  <i className="uil uil-calendar-alt">2024 January - Present</i>
                 </div>
               </div>
-            </div>*/}
-
+            </div>
             {/*=============== 2.3 ===============
             <div className="qualification__data">
               <div>
@@ -202,7 +205,6 @@ const Qualifications = () => {
                 <span className="qualification__line"></span>
               </div>
             </div>*/}
-
             {/*=============== 2.4 ===============
             <div className="qualification__data">
               <div></div>
@@ -220,10 +222,8 @@ const Qualifications = () => {
                 </div>
               </div>
             </div>*/}
-
           </div>
-        </div> 
-
+        </div>
       </div>
     </section>
   );
