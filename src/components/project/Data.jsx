@@ -45,38 +45,38 @@ export const Data = [
     description:
       "I was responsible for end-to-end project planning, execution, monitoring, and control, covering cost, risk, stakeholder, and quality management. I also ensured effective customer communication to resolve dependencies and actively supported presales activities.",
   },
-  // {
-  //   id: 4,
-  //   image: Sys1,
-  //   title: "Story Catcher e-library Mobile Application",
-  //   description:
-  //     "An android mobile application containing books, songs and pomes in both Sinhala and English laguages.",
-  // },
-  // {
-  //   id: 4,
-  //   image: Res1,
-  //   title:
-  //     "Story Catcher: e-library to Improve Early Literacy Skills and Verbal Fluency in Kids",
-  //   description:
-  //     "Published and presented a research paper at the 15th International Research Conference of General Sir John Kotelawala Defence University.",
-  //   link: "https://drive.google.com/file/d/1bCJP-Mvr1wSWU68r1_m2GOXqFJ2dYuVz/view?usp=sharing"
-  // },
-  // {
-  //   id: 5,
-  //   image: Res2,
-  //   title:
-  //     "A Review on the Application of Artificial Intelligence and Automation in Digital Forensics",
-  //   description:
-  //     "Published and presented a research paper at the 15th International Research Conference of General Sir John Kotelawala Defence University.",
-  //   link: "https://drive.google.com/file/d/1OQi0rBZzji5WkQ75TLVyDcTHwaNaNLWo/view?usp=sharing",
-  // },
-  // {
-  //   id: 6,
-  //   image: Res3,
-  //   title:
-  //     "Music Recommendation using Personality Prediction with Machine Learning",
-  //   description:
-  //     "Published and presented a research paper at the 3rd Faculty of Computing Student Symposium of General Sir John Kotelawala Defence University.",
-  //     link : "https://drive.google.com/file/d/1mv3R-6tkw5MaxnHg668Ny5a7Fi6ujjPC/view?usp=sharing"
-  // },
+  {
+    id: 6,
+    image: Sys1,
+    title: "Story Catcher e-library Mobile Application",
+    description:
+      "An android mobile application containing books, songs and pomes in both Sinhala and English laguages.",
+  },
+  {
+    id: 7,
+    image: Res1,
+    title:
+      "Story Catcher: e-library to Improve Early Literacy Skills and Verbal Fluency in Kids",
+    description:
+      "Published and presented a research paper at the 15th International Research Conference of General Sir John Kotelawala Defence University.",
+    link: "https://drive.google.com/file/d/1bCJP-Mvr1wSWU68r1_m2GOXqFJ2dYuVz/view?usp=sharing"
+  },
+  {
+    id: 8,
+    image: Res2,
+    title:
+      "A Review on the Application of Artificial Intelligence and Automation in Digital Forensics",
+    description:
+      "Published and presented a research paper at the 15th International Research Conference of General Sir John Kotelawala Defence University.",
+    link: "https://drive.google.com/file/d/1OQi0rBZzji5WkQ75TLVyDcTHwaNaNLWo/view?usp=sharing",
+  },
+  {
+    id: 9,
+    image: Res3,
+    title:
+      "Music Recommendation using Personality Prediction with Machine Learning",
+    description:
+      "Published and presented a research paper at the 3rd Faculty of Computing Student Symposium of General Sir John Kotelawala Defence University.",
+      link : "https://drive.google.com/file/d/1mv3R-6tkw5MaxnHg668Ny5a7Fi6ujjPC/view?usp=sharing"
+  },
 ];

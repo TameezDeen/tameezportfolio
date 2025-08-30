@@ -178,7 +178,7 @@ const Journeys = () => {
                   <i className="uil uil-calendar-alt"> 2020 - 2023</i>
                 </div>
                 <h3 className="journey__title">
-                  Bsc in Computer Science
+                  BSc (Hons)  in Computer Science
                 </h3>
                 <span className="journey__subtitle">
                   GPA - 3.2383
