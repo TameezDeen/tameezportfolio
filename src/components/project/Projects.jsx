@@ -34,6 +34,10 @@ const Project = () => {
             slidesPerView: 2,
             spaceBetween: 48,
           },
+          1024: {
+            slidesPerView: 2,
+            spaceBetween: 48,
+          }
         }}
         modules={[Pagination]}
       >

@@ -43,6 +43,7 @@
 
 .about__description {
   padding: 0 0.5rem 0 0;
+  text-align: justify;
   margin-bottom: var(--mb-2-5);
 }
 

@@ -4,7 +4,7 @@ import Home from "./components/home/Home";
 import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
 import Certifications from "./components/certifications/Certifications";
-import Qualifications from "./components/qualifications/Qualifications";
+import Journeys from "./components/journeys/Journeys";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
 import Projects from "./components/project/Projects";
@@ -19,7 +19,7 @@ function App() {
         <About />
         <Skills />
         <Certifications />
-        <Qualifications />
+        <Journeys />
         <Projects />
         <Contact />
       </main>

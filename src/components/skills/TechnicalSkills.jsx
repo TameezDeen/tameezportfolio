@@ -12,6 +12,33 @@ const TechnicalSkills = () => {
 
             <div>
               <h3 className="skills__name">Jira</h3>
+              <span className="skills__level">Advance</span>
+            </div>
+          </div>
+
+          <div className="skills_data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">MS Project</h3>
+              <span className="skills__level">Advance</span>
+            </div>
+          </div>
+
+          <div className="skills_data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Google Workspace</h3>
+              <span className="skills__level">Advance</span>
+            </div>
+          </div>
+
+          <div className="skills_data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">HTML, CSS & JS</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -20,34 +47,7 @@ const TechnicalSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Java</h3>
-              <span className="skills__level">Intermediate</span>
-            </div>
-          </div>
-
-          <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Python</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div>
-
-          <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Firebase</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div>
-
-          <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">HTML</h3>
+              <h3 className="skills__name">Figma</h3>
               <span className="skills__level">Intermediate</span>
             </div>
           </div>
@@ -58,8 +58,8 @@ const TechnicalSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">CSS</h3>
-              <span className="skills__level">Intermediate</span>
+              <h3 className="skills__name">Redmine</h3>
+              <span className="skills__level">Advance</span>
             </div>
           </div>
 
@@ -67,7 +67,16 @@ const TechnicalSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">Java Script</h3>
+              <h3 className="skills__name">MS Office</h3>
+              <span className="skills__level">Advance</span>
+            </div>
+          </div>
+
+          <div className="skills_data">
+            <i class="bx bx-badge-check"></i>
+
+            <div>
+              <h3 className="skills__name">Draw.io</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>
@@ -76,16 +85,7 @@ const TechnicalSkills = () => {
             <i class="bx bx-badge-check"></i>
 
             <div>
-              <h3 className="skills__name">React</h3>
-              <span className="skills__level">Basic</span>
-            </div>
-          </div>
-
-          <div className="skills_data">
-            <i class="bx bx-badge-check"></i>
-
-            <div>
-              <h3 className="skills__name">Node JS</h3>
+              <h3 className="skills__name">React JS</h3>
               <span className="skills__level">Basic</span>
             </div>
           </div>

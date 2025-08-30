@@ -1,5 +1,6 @@
 .project__container {
-  width: 750px;
+  /* width: 750px; */
+  width: 100%;
 }
 
 .project__card {
@@ -23,6 +24,7 @@
 
 .project__description {
   color: var(--title-color);
+  text-align: justify;
 }
 
 .paper__link {

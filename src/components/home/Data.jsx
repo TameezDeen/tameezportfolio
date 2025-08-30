@@ -8,13 +8,11 @@ const Data = () => {
       <h3 className="home__subtitle">Associate Project Manager</h3>
 
       <p className="home__description">
-        I am a 23 year old energetic and passionate final year undergraduate
-        working towards a BSc in Computer Science. Looking for a software
-        project management internship.
-        {/* I am a highly motivated and enthusiastic 23-year-old final year
-        undergraduate pursuing a BSc in Computer Science. With a deep passion
-        for the field, I am actively seeking an internship opportunity to
-        further enhance my knowledge and skills. */}
+        Energetic Associate Project Manager with 2+ years of experience leading
+        end-to-end software projects across cross-functional teams. Skilled in
+        aligning project delivery with strategic goals and exceeding client
+        expectations. Seeking challenging opportunities to drive impactful 
+        results and support organizational growth.
       </p>
 
       <a href="#contact" className="button button--flex">

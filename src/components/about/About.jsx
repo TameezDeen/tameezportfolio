@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/pics.jpg";
+import AboutImg from "../../assets/propic.JPG";
 import CV from "../../assets/Tameez-CV.pdf";
 import Info from "./Info";
 
@@ -17,17 +17,24 @@ const About = () => {
           <Info />
 
           <p className="about__description">
-            The path to project management has always been a passion 
-            of mine as an undergraduate in Computer Science. I possess 
-            strong communication skills and  I have a proven track 
-            record of leading teams to achieve project objectives. With 
-            a solid understanding of software development processes, I 
-            am well-versed in various programming languages, databases, 
-            and software tools. I am highly organized and skilled to 
-            thrive in fast-paced and dynamic work environments. I 
-            embrace new technologies and methodologies, continuously 
-            learning and staying updated to drive innovation and 
-            improve project outcomes.
+            As an Associate Project Manager with a strong foundation in the software domain, I specialize in coordinating and executing 
+            complex, cross-functional projects that align with strategic objectives and consistently exceed client expectations. 
+            My experience spans the full project lifecycle, from planning and development through deployment and high-level 
+            validation, ensuring seamless collaboration between internal teams and external stakeholders.
+            <br/>
+            <br/>
+            I bring hands-on expertise in project management tools such as Jira, Microsoft Project, and Excel-based trackers, 
+            enabling clear oversight of timelines, risks, and deliverables. My approach blends structured planning with adaptability, 
+            allowing me to manage change effectively while maintaining high delivery standards and client satisfaction.
+            <br/>
+            <br/>
+            I excel in collaborative environments and take pride in bridging communication between technical teams and business stakeholders. 
+            With a proactive mindset and strong attention to detail, I anticipate risks, facilitate timely decisions, and contribute to efficient 
+            project execution.
+            <br/>
+            <br/>
+            Driven by continuous improvement and a commitment to excellence, I deliver outcome-focused solutions that reduce rework, 
+            build trust, and support long-term success for both clients and the organization.
           </p>
 
           <a download='' href={CV} className="button button--flex">
