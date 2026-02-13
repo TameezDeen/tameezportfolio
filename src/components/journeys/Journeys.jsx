@@ -56,7 +56,7 @@ const Journeys = () => {
                   Trainee Project Manager
                 </span>
                 <div className="journey__calender">
-                  <i className="uil uil-calendar-alt"> 2023 June - 2023 December</i>
+                  <i className="uil uil-calendar-alt"> 2023 June - 2023 Dec</i>
                 </div>
               </div>
 
@@ -72,7 +72,7 @@ const Journeys = () => {
 
               <div>
                 <span className="journey__rounder"></span>
-                <span className="journey_line"></span>
+                <span className="journey__line"></span>
               </div>
               <div>
                 <h3 className="journey_location">Omobio (Pvt) Ltd.</h3>
@@ -80,35 +80,29 @@ const Journeys = () => {
                   Associate Project Manager
                 </span>
                 <div className="journey__calender">
-                  <i className="uil uil-calendar-alt"> 2024 January - Present</i>
+                  <i className="uil uil-calendar-alt"> 2024 Jan - 2026 Feb</i>
                 </div>
               </div>
             </div>
 
-            {/*=============== 1.3 ===============*/}
-            {/* <div className="qualification__data">
-              <div></div>
-
+            {/* =============== 1.3 =============== */}
+            <div className="journey__data">
               <div>
-                <span className="qualification__rounder"></span>
-                <span className="qualification__line"></span>
-              </div>
-
-              <div>
-              <h3 className="qualification_location">
-                  Zahira College Colombo
-                </h3>
-                <div className="qualification__calender">
-                  <i className="uil uil-calendar-alt"> 2017 - 2019</i>
-                </div>
-                <h3 className="qualification__title">
-                  GCE Advance Level (2019) (Physical Science Stream)
-                </h3>
-                <span className="qualification__subtitle">
-                  2A Passes <br /> 2S Passes
+                <h3 className="journey_location">Calcey Technologies</h3>
+                <span className="journey__title">
+                  Assocaiate Project Manager
                 </span>
+                <div className="journey__calender">
+                  <i className="uil uil-calendar-alt"> 2026 Feb - Present</i>
+                </div>
               </div>
-            </div> */}
+
+              <div>
+                <span className="journey__rounder"></span>
+                {/* <span className="journey__line"></span> */}
+              </div>
+            </div>
+                        
           </div>
 
           {/*=============== Education ===============*/}
