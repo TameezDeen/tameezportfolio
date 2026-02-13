@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tameezportfolio/static/css/main.df3a3853.css",
-    "main.js": "/tameezportfolio/static/js/main.bcff6f64.js",
+    "main.js": "/tameezportfolio/static/js/main.7823e686.js",
     "static/media/propic.JPG": "/tameezportfolio/static/media/propic.8afc6033c1fd6350ee4f.JPG",
     "static/media/profilepic.jpg": "/tameezportfolio/static/media/profilepic.415e6dbd9c0add67a590.jpg",
     "static/media/res2.png": "/tameezportfolio/static/media/res2.11a4c3e352a82728ebe6.png",
@@ -16,10 +16,10 @@
     "static/media/Tameez-CV.pdf": "/tameezportfolio/static/media/Tameez-CV.f40926c7728fd1ec3fbd.pdf",
     "index.html": "/tameezportfolio/index.html",
     "main.df3a3853.css.map": "/tameezportfolio/static/css/main.df3a3853.css.map",
-    "main.bcff6f64.js.map": "/tameezportfolio/static/js/main.bcff6f64.js.map"
+    "main.7823e686.js.map": "/tameezportfolio/static/js/main.7823e686.js.map"
   },
   "entrypoints": [
     "static/css/main.df3a3853.css",
-    "static/js/main.bcff6f64.js"
+    "static/js/main.7823e686.js"
   ]
 }
